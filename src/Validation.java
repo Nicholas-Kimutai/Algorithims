@@ -15,7 +15,7 @@ public class Validation {
         System.out.println(isUppercase("PHENOMENAL"));
 
         System.out.println(isLowercase("phenomenal"));
-        System.out.println(isLowercase("PHENOMENAL"));
+        System.out.println(isLowercase("PHENOMENA"));
 
     }
 }
